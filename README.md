@@ -9,7 +9,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Pic" height="150" style="border-radius:50px" src="https://cdn.discordapp.com/attachments/1044678028682350774/1044706884839555122/download20221102170037.png">
+  <img align="right" alt="Pic" height="150" style="border-radius:"50px" src="https://cdn.discordapp.com/attachments/1044678028682350774/1044706884839555122/download20221102170037.png">
 </div>
   
   ##
